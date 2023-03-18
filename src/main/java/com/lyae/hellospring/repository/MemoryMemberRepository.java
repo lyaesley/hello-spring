@@ -1,6 +1,7 @@
 package com.lyae.hellospring.repository;
 
 import com.lyae.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
